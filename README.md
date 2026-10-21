@@ -57,10 +57,10 @@ transact-etelia-core/
 
 Choose the official multi-platform package for your system:
 
-- 🪟 **[Download for Windows (.zip)]**(https://github.com/SwitchHat369/transact-etelia-public/releases/download/v1.2.0/Transact-Etelia-IDE-Windows.zip)
-- 🍎 **[Download for macOS (.zip)]**(https://github.com/SwitchHat369/transact-etelia-public/releases/download/v1.2.0/Transact-Etelia-IDE-macOS.zip)
-- 🐧 **[Download for Linux (.zip)]**(https://github.com/SwitchHat369/transact-etelia-public/releases/download/v1.2.0/Transact-Etelia-IDE-Linux.zip)
-- 📦 **[Download Universal Portable (.zip)]**(https://github.com/SwitchHat369/transact-etelia-public/releases/download/v1.2.0/Transact-Etelia-IDE-Portable.zip)
+- 🪟 [Download for Windows (.zip)](https://github.com/SwitchHat369/transact-etelia-public/releases/download/v1.2.0/Transact-Etelia-IDE-Windows.zip)
+- 🍎 [Download for macOS (.zip)](https://github.com/SwitchHat369/transact-etelia-public/releases/download/v1.2.0/Transact-Etelia-IDE-macOS.zip)
+- 🐧 [Download for Linux (.zip)](https://github.com/SwitchHat369/transact-etelia-public/releases/download/v1.2.0/Transact-Etelia-IDE-Linux.zip)
+- 📦 [Download Universal Portable (.zip)](https://github.com/SwitchHat369/transact-etelia-public/releases/download/v1.2.0/Transact-Etelia-IDE-Portable.zip)
 
 ---
 > 🔒 *The core IDE is open-source and free. For advanced features like the Etelia Assistant and enterprise support, check out our GitHub Sponsors page or contact us directly.*
